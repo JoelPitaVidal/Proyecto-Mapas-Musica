@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ProyectoPMDM</string>
+
+    <string name="mapbox_access_token">sk.eyJ1Ijoiam9lbHBpdGF2aWRhbCIsImEiOiJjbTQ1a2Rtd3cwbG4yMmtzNDJ3ZWUwZ2I1In0.RHJ994dwjALgNRlU-c5gZg</string>
 </resources>
